@@ -1,1 +1,1 @@
-Created a text file using gitbash
+Created a text file using gitbash. 
