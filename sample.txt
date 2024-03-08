@@ -1,1 +1,3 @@
+I've just made a change in my colleague's repository
+
 Created a text file using gitbash. 
